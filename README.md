@@ -54,7 +54,7 @@ This repository contains the homework exercises (EX1 to EX9) from a Data Mining 
 
 ---
 
-## ⚙ How to Use
+## How to Use
 1. **View Assignments**: Open the PDF files to see the original questions.
 2. **Check Answers**: 
    - Theoretical parts are in PDF also you can see their `.tex` source code.
