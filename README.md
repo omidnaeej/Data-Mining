@@ -4,10 +4,10 @@ This repository contains the homework exercises (EX1 to EX9) from a Data Mining 
 ---
 
 ## Table of Contents
-- [My Data Mining Homework Repository](#-my-data-mining-homework-repository)
-  - [Repository Structure](#-repository-structure)
-  - [Brief Description of Exercises](#-brief-description-of-exercises)
-  - [How to Use](#-how-to-use)
+- [My Data Mining Homework Repository](#my-data-mining-homework-repository)
+  - [Repository Structure](#repository-structure)
+  - [Brief Description of Exercises](#brief-description-of-exercises)
+  - [How to Use](#how-to-use)
 
 ---
 
