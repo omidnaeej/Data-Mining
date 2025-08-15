@@ -6,7 +6,7 @@ This repository contains the homework exercises (EX1 to EX9) from a Data Mining 
 ## Table of Contents
 - [My Data Mining Homework Repository](#-my-data-mining-homework-repository)
   - [Repository Structure](#-repository-structure)
-  - [List of Exercises](#-list-of-exercises)
+  - [Brief Description of Exercises](#-brief-description-of-exercises)
   - [How to Use](#-how-to-use)
 
 ---
@@ -19,7 +19,7 @@ This repository contains the homework exercises (EX1 to EX9) from a Data Mining 
 
 ---
 
-## Brief Exercises Description
+## Brief Description of Exercises
 1. **EX1: Introduction to Data Mining Tasks**  
    - Topics: Determining usefulness of data mining tasks (Description, Estimation, Prediction, Classification, Clustering, Association) in a hospital scenario; identifying relevant tasks for various real-world scenarios.  
 
