@@ -4,7 +4,8 @@ This repository contains the homework exercises (EX1 to EX9) from a Data Mining 
 ---
 
 ## Table of Contents
-- [My Data Mining Homework Repository](#my-data-mining-homework-repository)
+- [📊 My Data Mining Homework Repository](#-my-data-mining-homework-repository)
+  - [Table of Contents](#table-of-contents)
   - [Repository Structure](#repository-structure)
   - [Brief Description of Exercises](#brief-description-of-exercises)
   - [How to Use](#how-to-use)
@@ -52,6 +53,8 @@ This repository contains the homework exercises (EX1 to EX9) from a Data Mining 
    - Topics: Hierarchical clustering (single/complete linkage), k-means, neural networks; applied to Boston dataset (neural net for prediction, k-means for clustering).  
    - Practical: Clustering and simple neural network in Python.  
 
+10. **EX10: Association Rules and Imputation Methods**
+    - Topics: Generating association rules from toy transactional data, Comparing various missing data imputation methods.
 ---
 
 ## How to Use
