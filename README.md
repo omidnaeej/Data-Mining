@@ -4,9 +4,11 @@ This repository contains the homework exercises (EX1 to EX9) from a Data Mining 
 ---
 
 ## 📑 Table of Contents
-1. [📂 Repository Structure](#-repository-structure)  
-2. [📝 List of Exercises](#-list-of-exercises)  
-3. [⚙ How to Use](#-how-to-use)  
+- [📊 My Data Mining Homework Repository](#-my-data-mining-homework-repository)
+  - [📑 Table of Contents](#-table-of-contents)
+  - [📂 Repository Structure](#-repository-structure)
+  - [📝 List of Exercises](#-list-of-exercises)
+  - [⚙ How to Use](#-how-to-use)
 
 ---
 
@@ -25,7 +27,7 @@ This repository contains the homework exercises (EX1 to EX9) from a Data Mining 
 2. **EX2: Data Preprocessing Basics**  
    - Topics: Handling missing data, identifying outliers (Z-score, IQR), impact on mean/median, data binning.  
 
-3. **EX3: Advanced Preprocessing on Churn Data**  
+3. **EX3: Preprocessing on Churn Data**  
    - Topics: Missing data handling (removal, mode imputation, normal distribution), outlier detection (graphs, Z-score, IQR), normalization (min-max, Z-score), skewness, normality checks.  
    - Practical: Jupyter notebook for Churn dataset preprocessing.  
 
