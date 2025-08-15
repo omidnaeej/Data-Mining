@@ -1,4 +1,4 @@
-# 📊 My Data Mining Homework Repository
+# My Data Mining Homework Repository
 
 This repository contains the homework exercises (**EX1** to **EX9**) from a **Data Mining** course, including the original PDF assignments 📄 and their corresponding answers ✅. The answers cover both **theoretical explanations** and **practical implementations** 💻.  
 The exercises progressively cover topics such as **data mining tasks**, **preprocessing**, **statistical analysis**, **regression**, **classification**, **clustering**, and **neural networks** 🧠.
@@ -6,7 +6,7 @@ The exercises progressively cover topics such as **data mining tasks**, **prepro
 ---
 
 ## 📑 Table of Contents
-- [📊 My Data Mining Homework Repository](#-my-data-mining-homework-repository)
+- [My Data Mining Homework Repository](#my-data-mining-homework-repository)
   - [📑 Table of Contents](#-table-of-contents)
   - [📂 Repository Structure](#-repository-structure)
   - [📝 List of Exercises](#-list-of-exercises)
